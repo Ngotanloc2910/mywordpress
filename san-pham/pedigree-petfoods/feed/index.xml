@@ -10,12 +10,12 @@
 	Các phản hồi luận về: Pedigree Petfoods	</title>
 	<atom:link href="http://localhost/myproject/wordpress/san-pham/pedigree-petfoods/feed/" rel="self" type="application/rss+xml" />
 	<link>https://ngotanloc2910.github.io/mywordpress/san-pham/pedigree-petfoods/</link>
-	<description>Một trang web mới sử dụng WordPress</description>
+	<description></description>
 	<lastBuildDate>Thu, 13 Oct 2022 13:31:08 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<generator>https://wordpress.org/?v=6.0.3</generator>
 </channel>
 </rss>
