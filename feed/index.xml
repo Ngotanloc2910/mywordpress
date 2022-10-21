@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/feed/" rel="self" type="application/rss+xml" />
 	<link>https://ngotanloc2910.github.io/mywordpress</link>
 	<description></description>
-	<lastBuildDate>Thu, 20 Oct 2022 02:44:00 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 20 Oct 2022 07:28:07 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,8 +29,36 @@
 				<category><![CDATA[Chưa phân loại]]></category>
 		<guid isPermaLink="false">https://ngotanloc2910.github.io/mywordpress/?p=572</guid>
 
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
+					<description><![CDATA[Slide 1 HeadingLorem ipsum dolor sit amet consectetur adipiscing elit dolorClick HereSlide 2 HeadingLorem ipsum dolor sit amet consectetur adipiscing elit dolorClick HereSlide 3 HeadingLorem ipsum dolor sit amet consectetur ...]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="572" class="elementor elementor-572">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-d94c429 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="d94c429" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-bc71844" data-id="bc71844" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-c49e684 elementor--h-position-center elementor--v-position-middle elementor-arrows-position-inside elementor-pagination-position-inside elementor-widget elementor-widget-slides" data-id="c49e684" data-element_type="widget" data-settings="{&quot;navigation&quot;:&quot;both&quot;,&quot;autoplay&quot;:&quot;yes&quot;,&quot;pause_on_hover&quot;:&quot;yes&quot;,&quot;pause_on_interaction&quot;:&quot;yes&quot;,&quot;autoplay_speed&quot;:5000,&quot;infinite&quot;:&quot;yes&quot;,&quot;transition&quot;:&quot;slide&quot;,&quot;transition_speed&quot;:500}" data-widget_type="slides.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor-pro - v3.7.1 - 16-05-2022 */
+.elementor-slides .swiper-slide-bg{background-size:cover;background-position:50%;background-repeat:no-repeat;min-width:100%;min-height:100%}.elementor-slides .swiper-slide-inner{background-repeat:no-repeat;background-position:50%;position:absolute;top:0;left:0;bottom:0;right:0;padding:50px;margin:auto}.elementor-slides .swiper-slide-inner,.elementor-slides .swiper-slide-inner:hover{color:#fff;display:-webkit-box;display:-ms-flexbox;display:flex}.elementor-slides .swiper-slide-inner .elementor-background-overlay{position:absolute;z-index:0;top:0;bottom:0;left:0;right:0}.elementor-slides .swiper-slide-inner .elementor-slide-content{position:relative;z-index:1;width:100%}.elementor-slides .swiper-slide-inner .elementor-slide-heading{font-size:35px;font-weight:700;line-height:1}.elementor-slides .swiper-slide-inner .elementor-slide-description{font-size:17px;line-height:1.4}.elementor-slides .swiper-slide-inner .elementor-slide-description:not(:last-child),.elementor-slides .swiper-slide-inner .elementor-slide-heading:not(:last-child){margin-bottom:30px}.elementor-slides .swiper-slide-inner .elementor-slide-button{border:2px solid #fff;color:#fff;background:transparent;display:inline-block}.elementor-slides .swiper-slide-inner .elementor-slide-button,.elementor-slides .swiper-slide-inner .elementor-slide-button:hover{background:transparent;color:inherit;text-decoration:none}.elementor--v-position-top .swiper-slide-inner{-webkit-box-align:start;-ms-flex-align:start;align-items:flex-start}.elementor--v-position-bottom .swiper-slide-inner{-webkit-box-align:end;-ms-flex-align:end;align-items:flex-end}.elementor--v-position-middle .swiper-slide-inner{-webkit-box-align:center;-ms-flex-align:center;align-items:center}.elementor--h-position-left .swiper-slide-inner{-webkit-box-pack:start;-ms-flex-pack:start;justify-content:flex-start}.elementor--h-position-right .swiper-slide-inner{-webkit-box-pack:end;-ms-flex-pack:end;justify-content:flex-end}.elementor--h-position-center .swiper-slide-inner{-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}body.rtl .elementor-widget-slides .elementor-swiper-button-next{left:10px;right:auto}body.rtl .elementor-widget-slides .elementor-swiper-button-prev{right:10px;left:auto}.elementor-slides-wrapper div:not(.swiper-slide)>.swiper-slide-inner{display:none}@media (max-width:767px){.elementor-slides .swiper-slide-inner{padding:30px}.elementor-slides .swiper-slide-inner .elementor-slide-heading{font-size:23px;line-height:1;margin-bottom:15px}.elementor-slides .swiper-slide-inner .elementor-slide-description{font-size:13px;line-height:1.4;margin-bottom:15px}}</style>		<div class="elementor-swiper">
+			<div class="elementor-slides-wrapper elementor-main-swiper swiper-container" dir="ltr" data-animation="fadeInUp">
+				<div class="swiper-wrapper elementor-slides">
+										<div class="elementor-repeater-item-821d145 swiper-slide"><div class="swiper-slide-bg"></div><div class="swiper-slide-inner" ><div class="swiper-slide-contents"><div class="elementor-slide-heading">Slide 1 Heading</div><div class="elementor-slide-description">Lorem ipsum dolor sit amet consectetur adipiscing elit dolor</div><div  class="elementor-button elementor-slide-button elementor-size-sm">Click Here</div></div></div></div><div class="elementor-repeater-item-8dc1fd9 swiper-slide"><div class="swiper-slide-bg"></div><div class="swiper-slide-inner" ><div class="swiper-slide-contents"><div class="elementor-slide-heading">Slide 2 Heading</div><div class="elementor-slide-description">Lorem ipsum dolor sit amet consectetur adipiscing elit dolor</div><div  class="elementor-button elementor-slide-button elementor-size-sm">Click Here</div></div></div></div><div class="elementor-repeater-item-1fe7182 swiper-slide"><div class="swiper-slide-bg"></div><div class="swiper-slide-inner" ><div class="swiper-slide-contents"><div class="elementor-slide-heading">Slide 3 Heading</div><div class="elementor-slide-description">Lorem ipsum dolor sit amet consectetur adipiscing elit dolor</div><div  class="elementor-button elementor-slide-button elementor-size-sm">Click Here</div></div></div></div>				</div>
+															<div class="swiper-pagination"></div>
+																<div class="elementor-swiper-button elementor-swiper-button-prev">
+							<i aria-hidden="true" class="eicon-chevron-left"></i>							<span class="elementor-screen-only">Previous</span>
+						</div>
+						<div class="elementor-swiper-button elementor-swiper-button-next">
+							<i aria-hidden="true" class="eicon-chevron-right"></i>							<span class="elementor-screen-only">Next</span>
+						</div>
+												</div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
 					
 					<wfw:commentRss>https://ngotanloc2910.github.io/mywordpress/572-2/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
